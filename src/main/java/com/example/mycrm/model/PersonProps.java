@@ -1,5 +1,9 @@
-package com.example.springsecurityscratch.model;
+package com.example.mycrm.model;
 
+/**
+ * <h2>PersonProps</h2>
+ * Detailed person information related to entity of {@link Person}
+ */
 public class PersonProps {
     private long personId;
 

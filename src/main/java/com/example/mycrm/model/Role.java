@@ -1,4 +1,4 @@
-package com.example.springsecurityscratch.model;
+package com.example.mycrm.model;
 
 public enum Role {
     USER,
