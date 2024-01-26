@@ -1,5 +1,7 @@
 package com.example.mycrm.model;
 
+import java.util.Set;
+
 /**<h2>Person</h2>
  * This class represents user entity of the application<br>
  * It could be User class of Spring Security Framework, but at the moment I prefer to compose my own custom model.
@@ -44,12 +46,11 @@ public class Person {
     private String shortDescription;
 
     /**
-     * <h3>Customer ranking</h3><br>Decided to make it simply whole number
-     * it is also applicable to employees.
-     * Sure, measuring customer ranking is quite different from employee one
+     * <h3>metrics</h3><br>Customer ranking or employee KPI
+     * based on set of indicators {@link Indicator}
      * At the moment we arrange very simple field for ranking (kind of points counter), while it could be very complex to meet real business requirements
      */
-    private long ranking;
+    private Set<Indicator> metrics;
 
     /**
      * Fields above provide very basic information necessary to enter and authorize in system, and ranking

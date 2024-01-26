@@ -23,6 +23,4 @@ public class Project {
 
     private List<Person> thirdParties;
 
-    // TODO: consider regarding business entity class
-
 }

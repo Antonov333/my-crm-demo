@@ -15,4 +15,6 @@ public class Event {
     private List<Person> participants;
     private List<String> attachments;
 
+    private BusinessEventType eventType;
+
 }
