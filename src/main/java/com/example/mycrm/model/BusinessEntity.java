@@ -3,7 +3,7 @@ package com.example.mycrm.model;
 import java.util.List;
 import java.util.Set;
 
-/**
+/**<h2>public class BusinessEntity</h2>
  * Any customer is a business entity
  */
 public class BusinessEntity {
