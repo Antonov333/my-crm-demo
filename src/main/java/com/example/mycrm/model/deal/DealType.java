@@ -1,4 +1,4 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.deal;
 
 /**
  * Simplest and very often done type of commercial deal is when first party sell something to second party

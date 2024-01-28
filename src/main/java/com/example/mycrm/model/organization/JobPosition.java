@@ -1,4 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.organization;
+
+import com.example.mycrm.model.human.Person;
 
 /**
  * <h2>public class JobPosition</h2>

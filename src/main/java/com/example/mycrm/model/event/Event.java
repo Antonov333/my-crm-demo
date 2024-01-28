@@ -1,4 +1,7 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.event;
+
+import com.example.mycrm.model.human.Person;
+import com.example.mycrm.model.organization.BusinessEventType;
 
 import java.time.LocalDateTime;
 import java.util.List;

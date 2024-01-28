@@ -1,4 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.human;
+
+import com.example.mycrm.model.metrics.Indicator;
 
 import java.util.Set;
 
@@ -31,7 +33,7 @@ public class Person {
     /**
      * person's role in application
      */
-    private Role role;
+    private PersonRole role;
 
     /**
      * Surname could help instantly remind who is it<br>

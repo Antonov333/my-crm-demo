@@ -1,5 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.deal;
 
+import com.example.mycrm.model.project.Project;
 import lombok.Data;
 import java.util.HashSet;
 import java.util.List;

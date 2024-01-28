@@ -1,4 +1,7 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.organization;
+
+import com.example.mycrm.model.metrics.Indicator;
+import com.example.mycrm.model.human.Person;
 
 import java.util.List;
 import java.util.Set;

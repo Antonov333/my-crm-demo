@@ -1,6 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.human;
 
-public enum Role {
+public enum PersonRole {
     USER,
     ADMIN,
     SALES_PERSON,

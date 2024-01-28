@@ -1,6 +1,6 @@
 package com.example.mycrm.controller;
 
-import com.example.mycrm.model.Person;
+import com.example.mycrm.model.human.Person;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;

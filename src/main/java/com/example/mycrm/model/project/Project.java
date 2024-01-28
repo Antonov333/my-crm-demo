@@ -1,4 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.project;
+
+import com.example.mycrm.model.human.Person;
 
 import java.util.List;
 

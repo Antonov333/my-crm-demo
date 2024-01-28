@@ -1,4 +1,7 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.deal;
+
+import com.example.mycrm.model.metrics.MeasurementUnit;
+import com.example.mycrm.model.product.Product;
 
 import java.util.Currency;
 

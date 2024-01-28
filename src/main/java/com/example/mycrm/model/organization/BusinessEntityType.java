@@ -1,4 +1,4 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.organization;
 
 /**
  * <h2>public enum BusinessEntityType</h2>

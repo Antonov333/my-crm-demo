@@ -1,4 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.product;
+
+import com.example.mycrm.model.metrics.MeasurementUnit;
 
 /**
  * <h2>public class Products</h2>

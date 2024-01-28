@@ -1,4 +1,4 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.product;
 
 public enum ProductType {
     MATERIAL,

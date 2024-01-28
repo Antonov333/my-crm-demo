@@ -1,4 +1,4 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.metrics;
 
 public class Indicator {
     private String name;

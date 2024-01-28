@@ -1,4 +1,6 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.deal;
+
+import com.example.mycrm.model.organization.BusinessEntity;
 
 /**
  * <h2>public class DealParty</h2>

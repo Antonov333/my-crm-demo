@@ -1,4 +1,4 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.deal;
 
 public enum DealPartyRole {
     CUSTOMER,

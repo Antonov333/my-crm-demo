@@ -1,4 +1,4 @@
-package com.example.mycrm.model;
+package com.example.mycrm.model.organization;
 
 public enum BusinessEventType {
     PERSON_HIRED,
