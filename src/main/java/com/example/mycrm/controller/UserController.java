@@ -1,4 +1,4 @@
-package com.example.mycrm;
+package com.example.mycrm.controller;
 
 import com.example.mycrm.model.Person;
 import io.swagger.v3.oas.annotations.tags.Tag;
