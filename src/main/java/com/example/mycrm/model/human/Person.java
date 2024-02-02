@@ -1,9 +1,13 @@
 package com.example.mycrm.model.human;
 
 import com.example.mycrm.model.metrics.Indicator;
+import lombok.Builder;
+import lombok.Data;
 
 import java.util.Set;
 
+@Builder
+@Data
 /**<h2>Person</h2>
  * This class represents user entity of the application<br>
  * It could be User class of Spring Security Framework, but at the moment I prefer to compose my own custom model.
